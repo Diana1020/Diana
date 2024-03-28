@@ -1,0 +1,8 @@
+## Carpeta omitida
+videos/
+
+## Archivos ignorados
+*.txt
+## Excepciones
+!texts/171.txt
+
