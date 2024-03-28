@@ -1,3 +1,5 @@
 # Diana
 # Diana
-\nEste es un proyecto de ejemplo para demostrar cómo crear un archivo README.md y vincularlo con un repositorio de Git.
+
+Mi nombre es Diana Escobar, estudio ingeniería civil industrial, estoy en mi quinto año, y me gusta la ciencia de los datos.
+
